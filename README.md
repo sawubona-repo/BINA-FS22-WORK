@@ -2,6 +2,8 @@ MSc WINF - Modul "Business Intelligence and Analytics" (BINA) (HS21)
 ====================================================================
 ## This the Public GitHub Repository for BINA FS22 Students 
 
+![Welcome](xxxx)
+
 Sample Code and Script Repository for WINF Modul "Business Intelligence and Analytics" (BINA). 
 This GitHub Repository will be the central soucre of information to support the lectures of the Module BINA
 
