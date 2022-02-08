@@ -86,7 +86,7 @@ when you log on.
 When you are accessing yor Collaboratory Account wih opening a notebook file (e.g."Willkommen bei Collaboratory") you should see a browser
 window like this:
 
-![Screen Shot Jupyter Session](figures/Screen-Shot-Colab-Google-Session.jpg)
+![Screen Shot Jupyter Session](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/master/LB0-Kickoff/figures/Screen-Shot-Colab-Google-Session.jpg)
    
 ### 2.2 Using a local Installation    
 If you have installed a Jupyter/Python distribution on your laptop then
@@ -104,7 +104,7 @@ you can open a Jupyter session in one of two different ways:
 And when you have opened a session you should see a browser
 window like this:
 
-![Screen Shot Jupyter Session](figures/Screen-Shot-Jupyter-Session.png)
+![Screen Shot Jupyter Session](https://github.com/sawubona-gmbh/KETE-HS21-WORK/blob/master/LB0-Kickoff/figures/Screen-Shot-Jupyter-Session.png)
 
 At this point the browser displays a list of directories and files. You
 can navigate amoung the directories in the usual way by clicking on
