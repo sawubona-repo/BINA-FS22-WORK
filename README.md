@@ -8,7 +8,7 @@ Sample Code and Script Repository for WINF Modul "Business Intelligence and Anal
 This GitHub Repository will be the central soucre of information to support the lectures of the Module BINA
 
 ---
-> ###### Last update: 8/2/21 dbe - initial version
+> ###### Last update: 8/2/22 dbe - initial version
 
 The Repository(Repo) is organized according to the different lecture topics and contains information like
 * HOW TO - short descriptions for tools, scripts, accounts, services etc.
