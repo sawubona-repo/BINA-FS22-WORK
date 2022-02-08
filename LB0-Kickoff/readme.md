@@ -15,8 +15,8 @@
 > [HOWTO_Setup-Tableau-Online-Account](xxxxxx)  
 </br>  
 
-3. Initialize a **Google Colab** Account 
+3. Initialize a **Google Colab Jupyter Notebook** Account 
 
-> [HOWTO_Setup-Google-Colab-Account](xxxxxx)  
+> [HOWTO_Setup-Colab-Jupyter-Notebook](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB0-Kickoff/HOWTO_Setup-JupyterNotebook.md)  
 
 </br>
