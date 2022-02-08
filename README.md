@@ -1,4 +1,3 @@
-# BINA-FS22-WORK
 MSc WINF - Modul "Business Intelligence and Analytics" (BINA) (HS21)
 ====================================================================
 ## This the Public GitHub Repository for BINA FS22 Students 
