@@ -7,12 +7,12 @@
 
 1. Setup a personal **R/Rstudio Cloud** Account 
 
-> [HOWTO_Setup-RStudio-Cloud-Account](xxxxxx)  
+> [HOWTO_Setup-RStudio-Cloud-Account](https://rstudio.cloud/learn/guide)  
 </br>  
 
 2. Setup a personal Tableau Online Account
 
-> [HOWTO_Setup-Tableau-Online-Account](xxxxxx)  
+> [HOWTO_Setup-Tableau-Online-Account](https://www.tableau.com/products/online/request-trial)  
 </br>  
 
 3. Initialize a **Google Colab Jupyter Notebook** Account 
