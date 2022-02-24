@@ -5,12 +5,18 @@ Python/Jupyter Sample Code zu den folgenden Libraries
 * [**SEABORN** Statistical Data Visualizations](https://seaborn.pydata.org/)  
 ![image](https://user-images.githubusercontent.com/52699611/155507372-cd566aad-ffad-4ad8-9101-1e8fb646d155.png)
 
+
+Sample Code: [PYTHON/Python_SEABORN_Visualization_Examples.ipynb](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples.ipynb)
+ 
+
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 For a brief introduction to the ideas behind the library, you can read the [introductory notes](https://seaborn.pydata.org/introduction.html) or the [paper](https://joss.theoj.org/papers/10.21105/joss.03021).  
 You can browse the [example gallery](https://seaborn.pydata.org/examples/index.html) to see some of the things that you can do with seaborn.
 
 * [**BOKEH** Visualization Library](https://bokeh.org/)  
 ![image](https://user-images.githubusercontent.com/52699611/155508184-b89139d2-71a0-4a7b-985b-9f818ade8a09.png)
+
+Sample Code: [PYTHON/Python_SEABORN_Visualization_Examples.ipynb](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples.ipynb)  
 
 Bokeh is a Python library for creating interactive visualizations for modern web browsers. It helps you build beautiful graphics, ranging from simple plots to complex dashboards with streaming datasets. With Bokeh, you can create JavaScript-powered visualizations without writing any JavaScript yourself.
 See the [First Steps Tutorial](https://docs.bokeh.org/en/latest/docs/first_steps.html#first-steps) to quickly learn about the most important features and capabilities of Bokeh.  
