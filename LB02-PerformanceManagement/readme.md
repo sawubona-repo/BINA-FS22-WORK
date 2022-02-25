@@ -9,8 +9,10 @@
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
 * [The Data Visualization Catalogue: "A (non-code-based) library of different information visualisation types"](https://datavizcatalogue.com/)  
-* [Flowingdata: "How we use analysis and visualization to understand data and ourselves"](https://flowingdata.com/)  
-* [The New Yoek Times:"2021: The Year in Visual Stories and Graphics"](https://www.nytimes.com/interactive/2021/12/29/us/2021-year-in-graphics.html)  
+* [Flowingdata by Nathan Yau: "How we use analysis and visualization to understand data and ourselves"](https://flowingdata.com/)  
+*E.g. the blog #178 on [Visualization Tools and Learning Resources, February 2022 Roundup](https://flowingdata.com/2022/02/24/process-178-february-2022-roundup/)*  
+* [The New York Times:"2021: The Year in Visual Stories and Graphics"](https://www.nytimes.com/interactive/2021/12/29/us/2021-year-in-graphics.html)  
+*E.g. The [Weighted Olympic Medal Counts](https://www.nytimes.com/interactive/2022/02/07/upshot/which-country-leads-olympic-medal-count.html) by Josh Katz. It lets you change the score value for each medal to rank countries and depicts a short lesson on weighting and ranking.*
 </br>
 
 ## B) Dashboards
