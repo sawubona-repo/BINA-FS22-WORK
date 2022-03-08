@@ -19,7 +19,7 @@ Data visualization is the graphical representation of information and data. By u
 
 A Business Intelligence (BI) Dashboard, is a data visualization and analysis tool that displays on one screen the status of key performance indicators (KPIs) and other important business metrics and data points for an organization, department, team or process. Dashboards are an integral component of most BI software platforms and are widely used to deliver analytics information to business executives and workers.  
 
-* [IBCS Dashboards + Reporting](https://www.ibcs.com/de/)  
+* [IBCS Dashboards + Reporting](https://github.com/sawubona-gmbh/BINA-FS22-WORK/tree/main/LB02-PerformanceManagement/IBCS)  
 * [The Big Book of Dashboards](https://www.bigbookofdashboards.com/)  
 
 
