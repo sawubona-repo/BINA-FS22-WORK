@@ -4,17 +4,14 @@
 * *International Business Communication Standard* [**IBCS**](https://www.ibcs.com/de/)  
 The International Business Communication Standards (IBCS®) are practical suggestions for the consistent design of reports, presentations, dashboards and the charts and tables they contain. The further development of the IBCS Standards is an ongoing process, which is managed by the not-for-profit IBCS Association.
 
-![image](https://user-images.githubusercontent.com/52699611/157262678-c8c5bd72-4e96-46e8-821e-650f99f2a83b.png)
-
-
 You will find a lot of ressources and explanations at [Resources](https://www.ibcs.com/de/resources/). Get inspired by IBCS® templates, examples, recommended reading, and videos.
   
 <br>  
 
 ---  
 
-+ Sample Dashboard 1 "Complaints": [Tableau_Example_BBOD-Complaints-Dashboard.twbx](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/TABLEAU/Tableau_Example_BBOD-Complaints-Dashboard.twbx)*
-![image](https://user-images.githubusercontent.com/52699611/155573313-0432eb74-5f23-4562-9f83-0673c7d41b4c.png)
++ IBCS Waterfall Chart: [Tableau_Example_BBOD-Complaints-Dashboard.twbx](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/TABLEAU/Tableau_Example_BBOD-Complaints-Dashboard.twbx)*
+![image](https://user-images.githubusercontent.com/52699611/157262678-c8c5bd72-4e96-46e8-821e-650f99f2a83b.png)
 
 
 
