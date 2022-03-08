@@ -10,14 +10,14 @@ You will find a lot of ressources and explanations at [Resources](https://www.ib
 
 ---  
 
-+ IBCS Waterfall Chart: [Tableau_Example_BBOD-Complaints-Dashboard.twbx](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/TABLEAU/Tableau_Example_BBOD-Complaints-Dashboard.twbx)*
++ IBCS Sample Chart: *[C12 Vertical Waterfalls](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/IBCS/IBCS_chart_template_12-1.xlsb)*
 ![image](https://user-images.githubusercontent.com/52699611/157262678-c8c5bd72-4e96-46e8-821e-650f99f2a83b.png)
 
 
++ IBCS Certfied Software: [Tools & AddOns](https://www.ibcs.com/de/software/)
+![image](https://user-images.githubusercontent.com/52699611/157267585-9943e265-f303-44f0-aa00-736e1242507b.png)
 
-+ Sample Dashboard 2 "Insurance Broker Portfolio": [TableauSample_Insurance Dashboards-Broker Portfolio.twbx](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/TABLEAU/TableauSample_Insurance%20Dashboards-Broker%20Portfolio.twbx)*
-![image](https://user-images.githubusercontent.com/52699611/155574026-7e1e3664-48c3-434d-8662-297eaa5d1c58.png)
++ R/RStudio Package: [TidyCharts](https://cran.r-project.org/web/packages/tidycharts/tidycharts.pdf). Generate Tidy Charts Inspired by 'IBCS', Package released January 2022.  
+See [R-Bloggers](https://www.r-bloggers.com/2021/09/a-way-of-creating-clear-transparent-and-unified-data-visualizations/) for a more detailed description of this package.   
+![image](https://user-images.githubusercontent.com/52699611/157267182-b4b81260-b6b2-41f0-b13b-3599b1498953.png)
 
-
-+ Sample Visualisierung "Sample Superstore": [Tableau_Example Sample Superstore_Ryan Sleeper.twbx](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/TABLEAU/Tableau_Example%20Sample%20Superstore_Ryan%20Sleeper.twbx)*
-![image](https://user-images.githubusercontent.com/52699611/155574265-109dc7ef-03fa-4d6b-808d-3f1bc09776dd.png)
