@@ -29,3 +29,19 @@ The RDBMS is the most popular database system among organizations across the wor
 
 * [SQLite](https://sqlite.org/index.html) is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day  
 * An Online Playgorund for different RDBMS implementations is available on [SQlite Online](https://sqliteonline.com/)  
+
+</br>  
+
+## C) Entity-Relationship Diagram (ERD)   
+
+the *Entity Relationship Diagram*, also known as ERD, ER Diagram or ER model, is a type of structural diagram for use in database design. An ERD contains different symbols and connectors that visualize two important information: The major **entities** within the system scope, and the inter-**relationships** among these entities.
+
+See also Daniel Soper's Youtube Tutorial on [Data Modelling and Entity-Relationship Diagrams](https://youtu.be/IfaqkiHpIjo)  
+![image](https://user-images.githubusercontent.com/52699611/157514116-340fde84-d54c-44c5-9bd0-ed81e4bf751d.png)
+
+* [CHEN ERD Notation](https://www.vertabelo.com/blog/chen-erd-notation/) 
+* [CROW's FOOT ERD Notation](https://www.vertabelo.com/blog/crow-s-foot-notation/)   
+
+
+
+
