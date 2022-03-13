@@ -1,4 +1,9 @@
-##### last updated on 13/03/22 dbe
+# SQL / SQlite  README
+###### Last update: 13/3/22 dbe
+</br>  
+
+![image](https://user-images.githubusercontent.com/52699611/158074344-d10d01a2-34b8-4dff-a7e3-d26b7bd118b1.png)
+
 
 ### [SQLite Sample Database & Tutorial](https://www.sqlitetutorial.net/sqlite-sample-database/)
 
@@ -20,6 +25,6 @@ There are **11 tables** in the chinook sample database.
 + **playlists** & **playlist_track** tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.  
 
 ### Download SQLite Sample Database
-You can download the [SQLite sample database](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB03-DataModelingDataStorage/SQL/sqlite-sample-database-chinook.db) from this repository and explore the *xxx.db* file with an Online SQLite Browser (eg. [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)), a local SQlite installation or a Python script
+You can download the [SQLite sample database](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB03-DataModelingDataStorage/SQL/sqlite-sample-database-chinook.db) from this repository and explore the *xxx.db* file with an Online SQLite Browser (eg. [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)), a local SQlite Browser installation (e.g. [DB Browser for SQlite ](https://sqlitebrowser.org/))  or a [Python script](https://towardsdatascience.com/python-sqlite-tutorial-the-ultimate-guide-fdcb8d7a4f30)
 
 In case you want to have the database diagram for reference, you can download both black&white and color versions in PDF format.
