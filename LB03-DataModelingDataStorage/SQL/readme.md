@@ -1,1 +1,25 @@
-#### 
+##### last updated on 13/03/22 dbe
+
+### [SQLite Sample Database & Tutorial](https://www.sqlitetutorial.net/sqlite-sample-database/)
+
+Introduction to chinook SQLite sample database. We provide you with the SQLite sample database named chinook. The chinook sample database is a good database for practicing with SQL, especially SQLite.
+
+![image](https://user-images.githubusercontent.com/52699611/158073902-ac142af3-ca85-4fe8-81f5-cef62ca1094a.png)
+
+### The Chinook Sample Database Tables
+There are **11 tables** in the chinook sample database.
+
++ **employees** table stores employees data such as employee id, last name, first name, etc. It also has a field named ReportsTo to specify who reports to whom.  
++ **customers** table stores customers data.  
++ **invoices** & **invoice_items** tables: these two tables store invoice data. The invoices table stores invoice header data and the invoice_items table stores the invoice line items data.  
++ **artists** table stores artists data. It is a simple table that contains only the artist id and name.  
++ **albums** table stores data about a list of tracks. Each album belongs to one artist. However, one artist may have multiple albums.  
++ **media_types** table stores media types such as MPEG audio and AAC audio files.  
++ **genres** table stores music types such as rock, jazz, metal, etc.  
++ **tracks** table stores the data of songs. Each track belongs to one album.  
++ **playlists** & **playlist_track** tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.  
+
+### Download SQLite Sample Database
+You can download the SQLite sample database from this repository and explore the *xxx.db* file with an Online SQLite Browser (eg. [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)), a local SQlite installation or a Python script
+
+In case you want to have the database diagram for reference, you can download both black&white and color versions in PDF format.
