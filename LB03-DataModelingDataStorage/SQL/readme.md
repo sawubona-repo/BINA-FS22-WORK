@@ -20,6 +20,6 @@ There are **11 tables** in the chinook sample database.
 + **playlists** & **playlist_track** tables: playlists table store data about playlists. Each playlist contains a list of tracks. Each track may belong to multiple playlists. The relationship between the playlists table and tracks table is many-to-many. The playlist_track table is used to reflect this relationship.  
 
 ### Download SQLite Sample Database
-You can download the SQLite sample database from this repository and explore the *xxx.db* file with an Online SQLite Browser (eg. [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)), a local SQlite installation or a Python script
+You can download the [SQLite sample database](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB03-DataModelingDataStorage/SQL/sqlite-sample-database-chinook.db) from this repository and explore the *xxx.db* file with an Online SQLite Browser (eg. [SQLite Viewer](https://inloop.github.io/sqlite-viewer/)), a local SQlite installation or a Python script
 
 In case you want to have the database diagram for reference, you can download both black&white and color versions in PDF format.
