@@ -1,4 +1,4 @@
-### PYTHON/JUPYTER Visualization Examples
+### PYTHON/JUPYTER Data Manipulation 
 #### last update 8/3/22 dbe
 
 Python/Jupyter Infos und Sample Code zu den folgenden Themen   
