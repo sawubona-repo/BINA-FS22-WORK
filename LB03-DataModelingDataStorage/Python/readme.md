@@ -10,7 +10,10 @@ The SQLite file format is stable, cross-platform, and backwards compatible and t
 
 SQLite source code is in the public-domain and is free to everyone to use for any purpose. See the [official SQLite](https://www.sqlite.org/index.html) website for more information. 
 
-+ A Jupyter notebook [DEMO_SQlite_Chinook_Sample_Database.ipynb]() to demonstrate how to connect and interact from Python with SQLite databases is available in this folder
++ A *Jupyter notebook* - [DEMO_SQlite_Chinook_Sample_Database.ipynb](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB03-DataModelingDataStorage/Python/DEMO_SQlite_Chinook_Sample_Database.ipynb) - and the corresponding SQLite database files - - to demonstrate how to connect and interact from Python with SQLite databases is available in this folder
+
+<br>
+
 
 ## B) Python Datamanipulation with Pandas: Infos and Sample Code
 
@@ -21,7 +24,3 @@ For a sequence of topic explanations check [Getting Started Tutorials](https://p
 
 * *Sample Code Snippets on how to handle data SQL like data in Pandas* [How to rewrite your SQL queries in Pandas, and more](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e) 
  
-
-
-
-<br>
