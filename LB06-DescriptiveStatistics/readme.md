@@ -24,5 +24,14 @@ In a nutshell: *Descriptive statistics are used to describe the basic features o
 **RStudio** ist eine vom Unternehmen [RStudio, Inc.](https://www.rstudio.com/) angebotene, integrierte Entwicklungsumgebung und grafische Benutzeroberfläche für die **Statistik-Programmiersprache R**. RStudio ist sowohl als lokale [Desktop-Version](https://www.rstudio.com/products/rstudio/) als auch als [Cloud-Version](https://rstudio.cloud/) mit gleichem Layout verfügbar. Die Umgebung teilt sich in vier rechteckige Bereiche, in denen einer für *Skripte* genutzt wird, ein anderer als *Kommandozeile mit Output des Programmiercodes* und ein weiterer für die *Anzeige von Objekten in der Arbeitsumgebung*. In einem vierten Bereich lassen sich mit Reitern *grafischer Output, eine Paketverwaltung, das Ordnerverzeichnis und mehr* anzeigen. Auf die Cloudversion wird über einen Webbrowser zugegriffen.  
 
 * Beschreibende Statistik mit Hilfe von R/RStudio R - [A Handbook of Statistical Analyses with R](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/A%20Handbook%20of%20Statistical%20Analyses%20Using%20R.pdf)  
-* [Example R Script](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/R/R-Code_Descriptive-STATISTICS_IRIS_v3.R) mit Beispielen zur beschreibenden Statistik am IRIS Datensatz  
 * Video Tutorial zu [Deskriptive Statistik in R berechnen und interpretieren](https://youtu.be/2oJxL-ImcOM) 
+* [Example R Script](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/R/R-Code_Descriptive-STATISTICS_IRIS_v3.R) mit Beispielen zur beschreibenden Statistik am IRIS Datensatz  
+
+
+
+![image](https://user-images.githubusercontent.com/52699611/159883097-4808b698-1d61-428c-8481-40a05ddc19e4.png)
+
+* Descriptive Statistics mit Python und Pandas bei [Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm)  
+* Video Tutorial zu [Python, Pandas und Statistik](https://youtu.be/lttSd1sBzq0)  
+* [Example Python/Jupyter Script](LB06-DescriptiveStatistics/Python/Python-JUPYTER-Descriptive-Statistics.ipynb) mit Beispielen zur beschreibenden Statistik
+
