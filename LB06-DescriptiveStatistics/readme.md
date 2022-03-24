@@ -19,8 +19,10 @@ In a nutshell: *Descriptive statistics are used to describe the basic features o
 </br>
 
 ## B) Tools and Examples
-![image](https://user-images.githubusercontent.com/52699611/159879588-3b4a5711-78dc-45ff-a6b7-81b3804fe382.png)
+![image](https://user-images.githubusercontent.com/52699611/159880451-a488c1f2-0ff7-4f4a-b144-a86f3f792c49.png)
 
-* aaa
+**RStudio** ist eine vom Unternehmen [RStudio, Inc.](https://www.rstudio.com/) angebotene, integrierte Entwicklungsumgebung und grafische Benutzeroberfläche für die **Statistik-Programmiersprache R**. RStudio ist sowohl als lokale [Desktop-Version](https://www.rstudio.com/products/rstudio/) als auch als [Cloud-Version](https://rstudio.cloud/) mit gleichem Layout verfügbar. Die Umgebung teilt sich in vier rechteckige Bereiche, in denen einer für *Skripte* genutzt wird, ein anderer als *Kommandozeile mit Output des Programmiercodes* und ein weiterer für die *Anzeige von Objekten in der Arbeitsumgebung*. In einem vierten Bereich lassen sich mit Reitern *grafischer Output, eine Paketverwaltung, das Ordnerverzeichnis und mehr* anzeigen. Auf die Cloudversion wird über einen Webbrowser zugegriffen.  
+
+* Beschreibende Statistik mit Hilfe von R/RStudio R - [A Handbook of Statistical Analyses with R](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/A%20Handbook%20of%20Statistical%20Analyses%20Using%20R.pdf)  
 * bbb
 * Video Tutorial zu [Deskriptive Statistik in R berechnen und interpretieren](https://youtu.be/2oJxL-ImcOM) 
