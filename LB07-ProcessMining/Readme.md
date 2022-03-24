@@ -2,7 +2,7 @@
 ###### Last update: 24/3/22 dbe
 </br>
 
-![LB06](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/zImages/MSc-WI_BINA_LB6_Descriptive%20Statistics.png)
+![image]https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/zImages/MSc-WI_BINA_LB7_Process%20Mining.PNG
 
 ## A) Process Mining
 
