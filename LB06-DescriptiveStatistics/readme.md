@@ -33,5 +33,5 @@ In a nutshell: *Descriptive statistics are used to describe the basic features o
 
 * Descriptive Statistics mit Python und Pandas bei [Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm)  
 * Video Tutorial zu [Python, Pandas und Statistik](https://youtu.be/lttSd1sBzq0)  
-* [Example Python/Jupyter Script](LB06-DescriptiveStatistics/Python/Python-JUPYTER-Descriptive-Statistics.ipynb) mit Beispielen zur beschreibenden Statistik
+* [Example Python/Jupyter Script](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/f286f27f82ea511995fa7fcc5685196829e6f6a5/LB06-DescriptiveStatistics/Python/Python-JUPYTER-Descriptive-Statistics.ipynb) mit Beispielen zur beschreibenden Statistik
 
