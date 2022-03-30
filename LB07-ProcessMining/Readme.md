@@ -1,18 +1,31 @@
 # LB07 - Process Mining README
-###### Last update: 24/3/22 dbe
+###### Last update: 30/3/22 dbe
 </br>
 
 ![MSc-WI_BINA_LB7_Process Mining](https://user-images.githubusercontent.com/52699611/160862823-016e7439-4c25-4566-a2fe-a68951726883.PNG)
 
 ## A) Process Mining
 
-xxxxx
+**Process mining**  bridges the gap between traditional *model-based process analysis* (e.g., simulation and other business process management techniques) and data-centric analysis techniques such as *machine learning and data mining*. Process mining seeks the confrontation between **event data** (i.e., observed behavior) and **process models** (hand-made or discovered automatically). This technology has become available only recently, but it can be applied to any type of operational processes (organizations and systems).  
 
-In a nutshell: *Descriptive statistics are used to describe the basic features of the data in a study. They provide simple summaries about the sample and the measures. Together with simple graphics analysis, they form the basis of virtually every quantitative analysis of data. With descriptive statistics you are describing what is or what the data shows.*
+Example applications include: 
++ analyzing treatment processes in hospitals (e.g. [Process Mining with Python Healthcare Example](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-1-ae02027a050)), 
++ improving customer service processes in a multinational, 
++ understanding the browsing behavior of customers using booking site, 
++ analyzing failures of a baggage handling system, 
++ and improving the user interface of an X-ray machine. 
 
-* Die Basics von Descriptive Statistics kurz zusammengefasst in [Understanding Descriptive Statistics](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291)  
-* Zahlen, Daten, Diagramme - [So durchschaust du jede Statistik](https://www.quarks.de/gesellschaft/bildung/so-durchschaust-du-jede-statistik/)  
-* Scheinkorrelationen? - [Spurious correlations](https://tylervigen.com/spurious-correlations)
+All of these applications have in common that *dynamic behavior needs to be related to process models*. 
+
+![image](https://user-images.githubusercontent.com/52699611/160899702-2b43476a-bc20-437b-ba16-a43eb40919e0.png)
+
+> *"Data science is the profession of the future, because organizations that are unable to use (big) data in a smart way will not survive. However, it is not sufficient to focus on data storage and data analysis. The data scientist also needs to relate data to process analysis"*  
+> *Wil. van der Aalst, Professor at RWTH Aachen University*
+ 
+* The Process and Data Science ([PADS](https://www.pads.rwth-aachen.de/))Group @RWTH Aachen University and their [Process Mining](http://www.processmining.org/home.html) website   
+* The famous [Process Mining: Data science in Action Course](https://de.coursera.org/learn/process-mining) of Wil van der Aalst @Coursera  
+* The [Process Analytics](https://pa.win.tue.nl/) research group @TU Eindhoven   
+
 
 </br>
 
@@ -29,4 +42,4 @@ In a nutshell: *Descriptive statistics are used to describe the basic features o
 
 
 * **bupaR** ([Business Process Analysis in R](https://bupar.net/)) an open-source, integrated suite of R-packages for the handling and analysis of business process data. bupaR provides support for different stages in process analysis, such as importing and preprocessing event data, calculating descriptive statistics, process vizualisation and conformance checking. Bei [R-Blogger](https://www.r-bloggers.com/2019/03/process-mining-part-1-3-introduction-to-bupar-package/) findet sich ein gut gemachtes mehrteiliges Tutorial dazu.    
-* **PM4PY**  [Process Mining for Python](https://youtu.be/lttSd1sBzq0) a state-of-the-art-process mining library in Python, designed to be used in both academia and industry.  
+* **PM4PY**  [Process Mining for Python](https://youtu.be/lttSd1sBzq0) a state-of-the-art-process mining library in Python, designed to be used in both academia and industry. See the [Frauenhofer PM4PY Website](https://pm4py.fit.fraunhofer.de/)
