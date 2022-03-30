@@ -6,7 +6,7 @@
 
 ## A) Process Mining
 
-Eine Datenanalyse wird selten mit deskriptiver Statistik enden, aber fast immer damit beginnen. Bevor ihr die eigentlichen Hypothesen prüfen könnt, benötigt ihr eine Vorstellung davon, wie die vorliegende Stichprobe an Daten (Messungen, Beobachtungen) denn überhaupt aussieht. Spiegelt das Geschlechterverhältnis die Grundgesamtheit wider? Wie sieht es mit dem Alter oder dem Einkommen aus? Ist die Variable normalverteilt? Manchmal liefert die deskriptive Statistik auch zusätzliche Ideen, was ihr euch bei der Datenanalyse genauer ansehen solltet.
+xxxxx
 
 In a nutshell: *Descriptive statistics are used to describe the basic features of the data in a study. They provide simple summaries about the sample and the measures. Together with simple graphics analysis, they form the basis of virtually every quantitative analysis of data. With descriptive statistics you are describing what is or what the data shows.*
 
@@ -18,14 +18,15 @@ In a nutshell: *Descriptive statistics are used to describe the basic features o
 
 ## B) Tools and Examples
 
-**RStudio** ist eine vom Unternehmen [RStudio, Inc.](https://www.rstudio.com/) angebotene, integrierte Entwicklungsumgebung und grafische Benutzeroberfläche für die **Statistik-Programmiersprache R**. RStudio ist sowohl als lokale [Desktop-Version](https://www.rstudio.com/products/rstudio/) als auch als [Cloud-Version](https://rstudio.cloud/) mit gleichem Layout verfügbar. Die Umgebung teilt sich in vier rechteckige Bereiche, in denen einer für *Skripte* genutzt wird, ein anderer als *Kommandozeile mit Output des Programmiercodes* und ein weiterer für die *Anzeige von Objekten in der Arbeitsumgebung*. In einem vierten Bereich lassen sich mit Reitern *grafischer Output, eine Paketverwaltung, das Ordnerverzeichnis und mehr* anzeigen. Auf die Cloudversion wird über einen Webbrowser zugegriffen.  
+**Disco** - discover your process by [Fluxicon](https://fluxicon.com/) - ist besonders auf Geschwindigkeit und Performance ausgelegt und kann so auch größere Datenmengen verarbeiten. Disco ist in der Lage aus den Rohdaten direkt eine Prozesskarte zu erstellen. Anschließend kann der Prozess visuell durch Animationen dargestellt werden, um direkte Fehlerquellen und Engpässe auszumachen. Darüber hinaus bietet Disco eine Vielzahl an Möglichkeiten, die ausgewerteten Daten zu präsentieren und ermöglicht direkte Suchen ohne lange Wartezeiten oder Berechnungen. Disco wurde von zwei PhD Absolvent:innen (Anne Rozinat und Christian Günther) der [TU Eindhoven](https://www.tue.nl/en/) aus dem Forschungsteam von [Prof. Wil van der Aalst](https://www.tue.nl/en/research/researchers/wil-van-der-aalst/) entwickelt. Wil van der Aalst gilt als *[Gottvater des Process-Minings](https://www.handelsblatt.com/technik/it-internet/wil-van-der-aalst-deutschlands-wertvollstes-start-up-celonis-verpflichtet-spitzenforscher-/27543480.html)*  
 
-* Beschreibende Statistik mit Hilfe von R/RStudio R - [A Handbook of Statistical Analyses with R](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/A%20Handbook%20of%20Statistical%20Analyses%20Using%20R.pdf)  
-* Video Tutorial zu [Deskriptive Statistik in R berechnen und interpretieren](https://youtu.be/2oJxL-ImcOM) 
-* [Example R Script](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB06-DescriptiveStatistics/R/R-Code_Descriptive-STATISTICS_IRIS_v3.R) mit Beispielen zur beschreibenden Statistik am IRIS Datensatz  
+![image](https://user-images.githubusercontent.com/52699611/160866432-bf0f40d6-3872-4812-89a6-a135ea30a250.png)
 
 
-* Descriptive Statistics mit Python und Pandas bei [Tutorialspoint](https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm)  
-* Video Tutorial zu [Python, Pandas und Statistik](https://youtu.be/lttSd1sBzq0)  
-* [Example Python/Jupyter Script](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/f286f27f82ea511995fa7fcc5685196829e6f6a5/LB06-DescriptiveStatistics/Python/Python-JUPYTER-Descriptive-Statistics.ipynb) mit Beispielen zur beschreibenden Statistik
+* Das Tool [DISCOver your process](https://fluxicon.com/disco/) findet ihr zum Download auf der Fluxicon Website    
+* Fluxicon stellt zahlreiche [Video Tutorials](https://www.youtube.com/c/FluxiconProcessMiningCo/videos) zur freien Nutzung her. Spannend sind dabei auch die Praxisberichte von Anwender:innen und Unternehmen. 
+* Gutes Intro Tutorial zum Tool durch [Dr. Anne Rozinat](https://youtu.be/SLKXsUI74YA) CO-Founderin von Fluxicon  
 
+
+* **bupaR** ([Business Process Analysis in R](https://bupar.net/)) an open-source, integrated suite of R-packages for the handling and analysis of business process data. bupaR provides support for different stages in process analysis, such as importing and preprocessing event data, calculating descriptive statistics, process vizualisation and conformance checking. Bei [R-Blogger](https://www.r-bloggers.com/2019/03/process-mining-part-1-3-introduction-to-bupar-package/) findet sich ein gut gemachtes mehrteiliges Tutorial dazu.    
+* **PM4PY**  [Process Mining for Python](https://youtu.be/lttSd1sBzq0) a state-of-the-art-process mining library in Python, designed to be used in both academia and industry.  
