@@ -2,7 +2,8 @@
 ###### Last update: 8/2/22 dbe
 </br>
 
-![LB06](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/zImages/MSc-WI_BINA_LB6_Descriptive%20Statistics.png)
+![Folie5](https://user-images.githubusercontent.com/52699611/160862506-33f6b3e0-e2f8-4cd8-ac4d-3e23ed960faa.PNG)
+
 
 ## A) Descriptive Statistics (*beschreibende Statistik*)
 
