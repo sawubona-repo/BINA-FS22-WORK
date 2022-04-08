@@ -12,8 +12,9 @@ readers interests, knowledge and attitudes. But there is still much that can be 
 about the relative importance of Web pages."*  
 > *Sergey Brin and Larry Page, "The PageRank Citation Ranking: Bringing Order to the Web", 1998*
  
-* The Process and Data Science ([PADS](https://www.pads.rwth-aachen.de/))Group @RWTH Aachen University and their [Process Mining](http://www.processmining.org/home.html) website   
-* The famous [Process Mining: Data science in Action Course](https://de.coursera.org/learn/process-mining) of Wil van der Aalst @Coursera  
+* [The Academic Paper That Started Google](https://www.sciencedirect.com/science/article/pii/S016975529800110X).  In 1995, Larry Page met Sergey Brin. At the time, Page and Brin were Ph.D students at Stanford University. The two began collaborating on a research project nicknamed “BackRub” with the goal of ranking web pages into a measure of importance by converting their backlink data. Without knowing it at the time, Page and Brin developed the [PageRank algorithm](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) that became the original Google Search algorithm.  
+* xxxx
+* xxxx
 
 
 </br> 
