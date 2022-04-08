@@ -21,10 +21,15 @@ about the relative importance of Web pages."*
 
 ## B) Tools and Examples
 
-**BeautifulSoup** - xxxxx  
-
-![image](https://user-images.githubusercontent.com/52699611/160866432-bf0f40d6-3872-4812-89a6-a135ea30a250.png)
+![image](https://user-images.githubusercontent.com/52699611/162431175-6ced3fef-3746-4be4-a981-7685eb6b3210.png)
 
 
-* Das Tool SCEAPY  xxxx 
-* Gutes Intro Tutorial zu Markov Chains xxxxx  
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - A Python library for pulling data out of HTML and XML files. See in the Blog [How open source software is fighting COVID-19](https://blog.tidelift.com/how-open-source-software-is-fighting-covid-19) the *DXY-COVID-19-Crawler* of BlankerL that was created in January 2020 and is one of the earliest responses from the open source community to COVID-19. When the virus was spreading primarily in China, the Chinese medical community was using a site called DXY.cn to report and track cases. To make the information more readily available and usable by others, GitHub user BlankerL wrote a web crawler to systematically collect data from the DXY.cn site and make it available via an API and data warehouse. 
+
+* [Scrapy](https://scrapy.org/) - An Open Source Framework for Crawling Websites and Extracting Structured Data (Scraping)  
+
+* [Webscraper.io](https://webscraper.io/) - A free Chrome Extension. See the [Video Tutorial](https://youtu.be/n7fob_XVsbY) on using the webscraper to scrape a simple ecommerce site
+ 
+* [Selenium](https://www.selenium.dev/) - Web Automation Testing through Selenium and Python
+
+* [Rvest](https://rvest.tidyverse.org/) - Easily Harvest (Scrape) Web Pages. See the[ Datacamp](https://www.datacamp.com/community/tutorials/r-web-scraping-rvest) Tutorial
