@@ -2,7 +2,8 @@
 ###### Last update: 08/4/22 dbe
 </br>
 
-![MSc-WI_BINA_LB7_Process Mining](https://user-images.githubusercontent.com/52699611/160862823-016e7439-4c25-4566-a2fe-a68951726883.PNG)
+![Folie4](https://user-images.githubusercontent.com/52699611/162425494-8c53aa37-b003-4c52-a5c6-b1890c772b6e.PNG)
+
 
 ## A) Web Analytics
 
