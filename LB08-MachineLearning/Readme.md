@@ -29,7 +29,9 @@ There is also a free [Machine Learning Crash Course](https://developers.google.c
 
 * [Scikit-learn](https://scikit-learn.org/stable/index.html) a free software machine learning library for the Python programming language.  Simple and efficient tools for predictive data analysis.Is was initiated in 2009 and in the field of computer sciences and mathematics.. Note: scikit-learn has received a [prize for open-source scientific software from the French Government](https://www.ouvrirlascience.fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche/) in february 2022. This is great recognition for all the community of contributors and users of a project born in France.  
 
-* [Scrapy](https://scrapy.org/) - An Open Source Framework for Crawling Websites and Extracting Structured Data (Scraping). See the [Towards Data Science Blog](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673) on Using Scrapy to Build your Own Dataset
+* The [tidyverse](https://tidyverse.org/) is a collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures. The tidyverse collection was initiated by Hadley Wickham an Assistant Professor at Rice University and an active memberof the R community. See the free online version of his excellent book [R for Data Science](https://r4ds.had.co.nz/index.html) on how to do data science with R
 
-* [Webscraper.io](https://webscraper.io/) - A free Chrome Extension. See the [Video Tutorial](https://youtu.be/n7fob_XVsbY) on using the webscraper to scrape a simple ecommerce site
+![data-science](https://user-images.githubusercontent.com/52699611/164678147-63b515a7-0a1f-443a-9caf-af9a0bd867ee.png)
+
+* For [KNIME](https://www.knime.com/), you'll find a lot of well curated video tutorials, e.g. [Behind the Scenes of Machine Learning](https://youtu.be/XtOmoIibsGk). See also the excellent book of Rosaria Silipo, Principal Data Scientist and Head of Evangelism at KNIME AG, [Guide to Intelligent Data Science](https://link.springer.com/book/10.1007/978-3-030-45574-3)
  
