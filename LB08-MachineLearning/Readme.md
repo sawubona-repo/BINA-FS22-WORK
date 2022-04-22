@@ -27,7 +27,7 @@ There is also a free [Machine Learning Crash Course](https://developers.google.c
 
 
 
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - A Python library for pulling data out of HTML and XML files. See in the Blog [How open source software is fighting COVID-19](https://blog.tidelift.com/how-open-source-software-is-fighting-covid-19) the *DXY-COVID-19-Crawler* of BlankerL that was created in January 2020 and is one of the earliest responses from the open source community to COVID-19. When the virus was spreading primarily in China, the Chinese medical community was using a site called DXY.cn to report and track cases. To make the information more readily available and usable by others, GitHub user BlankerL wrote a web crawler to systematically collect data from the DXY.cn site and make it available via an API and data warehouse. 
+* [Scikit-learn](https://scikit-learn.org/stable/index.html) a free software machine learning library for the Python programming language.  Simple and efficient tools for predictive data analysis.Is was initiated in 2009 and in the field of computer sciences and mathematics.. Note: scikit-learn has received a [prize for open-source scientific software from the French Government](https://www.ouvrirlascience.fr/remise-des-prix-science-ouverte-du-logiciel-libre-de-la-recherche/) in february 2022. This is great recognition for all the community of contributors and users of a project born in France.  
 
 * [Scrapy](https://scrapy.org/) - An Open Source Framework for Crawling Websites and Extracting Structured Data (Scraping). See the [Towards Data Science Blog](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673) on Using Scrapy to Build your Own Dataset
 
