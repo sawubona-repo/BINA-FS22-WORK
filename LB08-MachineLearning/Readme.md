@@ -9,14 +9,13 @@
 
 ![E51K5HwUYAgggrr](https://user-images.githubusercontent.com/52699611/164500350-fa81e4c8-17b4-4d6b-b124-48fa297184ed.jpg)
 
+* The course [Machine Learning CS229 at Stanford](https://cs229.stanford.edu/) is one of the most popular machine learning courses created by **Andrew Ng, co-founder of Coursera** and founder of deeplearning.ai. There is a free variant available at [Coursera](https://de.coursera.org/learn/machine-learning), given by Andrew Ng himself.
+> *Fantastic intro to the fundamentals of machine learning. If you want to take your understanding of machine learning concepts beyond "model.fit(X, Y), model.predict(X)" then this is the course for you. (David W.)*
 
-> *"The importance of a Web page is an inherently sub jective matter, which depends on the
-readers interests, knowledge and attitudes. But there is still much that can be said ob jectively
-about the relative importance of Web pages."*  
-> *Sergey Brin and Larry Page, "The PageRank Citation Ranking: Bringing Order to the Web", 1998*
- 
-* [The Academic Paper That Started Google](https://www.sciencedirect.com/science/article/pii/S016975529800110X).  In 1995, Larry Page met Sergey Brin. At the time, Page and Brin were Ph.D students at Stanford University. The two began collaborating on a research project nicknamed “BackRub” with the goal of ranking web pages into a measure of importance by converting their backlink data. Without knowing it at the time, Page and Brin developed the [PageRank algorithm](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) that became the original Google Search algorithm.  
+* [Machine Learning - An online comic from Google AI](https://cloud.google.com/products/ai/ml-comic-1). **A comic strip** approach to machine learning? Could it possibly work? The hero is a cat, so of course it can. Have fun. 
+There is also a free [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) at Google  
 
+* On [edX](https://www.edx.org/learn/machine-learning) you'll also find a lot of well done and free online courses for Machine Learning and related topics. Note **edX** was started in 2012 by Professor Anant Agarwal and colleagues from MIT and Harvard as a platform that would offer their courses online, open to any person up to the challenge, for free. 
 
 
 
