@@ -7,8 +7,7 @@
 
 ## A) Clustering
 
-![750px-VoronoiM](https://user-images.githubusercontent.com/52699611/165264825-e9f25851-c6e0-4ee9-ba10-2e6f412f2cfc.jpg)
-
+![maxresdefault-cropped](https://user-images.githubusercontent.com/52699611/165266318-1d9d67ba-c4d9-4efd-b1e0-384be333a2f6.jpg)
 
 * The course [XXXXX](https://cs229.stanford.edu/) is one of the most popular machine learning courses created by **Andrew Ng, co-founder of Coursera** and founder of deeplearning.ai. There is a free variant available at [Coursera](https://de.coursera.org/learn/machine-learning), given by Andrew Ng himself.
 > *Fantastic intro to the fundamentals of machine learning. If you want to take your understanding of machine learning concepts beyond "model.fit(X, Y), model.predict(X)" then this is the course for you. (David W.)*
