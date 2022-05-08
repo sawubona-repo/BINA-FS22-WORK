@@ -19,6 +19,9 @@ Clustering is a Machine Learning technique that involves the grouping of data po
 
 ![1_kubKl-n83LLF0BjeXKvyZA](https://user-images.githubusercontent.com/52699611/165265010-d884312c-9f41-4958-ac92-ce13cd21b1f4.png)
 
+Supervised learning learns a function to make prediction of a defined label based on the input data. It can be either **classifying data** into a category (classification problem) or **forecasting an outcome** (regression algorithms). **Classification model** identifies which category an object belongs to whereas **Regression model** predicts a continuous output.
+
+* see [Top 6 Machine Learning Algorithms for Classification](https://towardsdatascience.com/top-machine-learning-algorithms-for-classification-2197870ff501) for an indepth discussion on major machine learning algorithms for classification problems, including: logistic regression, *decision tree*, *random forest*, support vector machine, **k nearest neighbour** and naive bayes. 
 </br>
 
 
