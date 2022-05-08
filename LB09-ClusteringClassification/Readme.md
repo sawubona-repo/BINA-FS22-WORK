@@ -9,6 +9,9 @@
 
 ![maxresdefault-cropped](https://user-images.githubusercontent.com/52699611/165266318-1d9d67ba-c4d9-4efd-b1e0-384be333a2f6.jpg)
 
+Clustering is a Machine Learning technique that involves the grouping of data points. Given a set of data points, we can use a clustering algorithm to classify each data point into a specific group. In theory, data points that are in the same group should **have similar properties and/or features**, while data points in different groups should have highly dissimilar properties and/or features. Clustering is a **method of unsupervised learning** and is a common technique for statistical data analysis used in many fields.
+
+* see [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) for a discussion on clustering as a unsuervised machine learning technique and specific clustering algorithms in more details
 </br>
 
 
