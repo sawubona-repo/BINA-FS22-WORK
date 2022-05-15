@@ -3,5 +3,6 @@
 
 ![TimeSeriesChart_1](https://user-images.githubusercontent.com/52699611/168090912-1c907109-0ae1-442e-b2c3-fb4ea4e62963.jpg)
 
-* see [XXXX](https://realpython.com/k-means-clustering-python/) for more information on XXXX
-* see [YYYYY](https://medium.datadriveninvestor.com/cluster-analysis-using-python-part-1-4ceee387d79a) for a series of blogs on YYYYY using Python 
+* see [Kaggle](https://www.kaggle.com/code/manas13/time-series-air-passenger/notebook) for another python notebook on Time Series with Air Passenger Data
+* see [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/) for indepth discussion and explanation of Time Series analysis
+* see [Kaggle](https://www.kaggle.com/code/zebashaikh/linear-regression-on-advertising-dataset/notebook) for another python notebook on Linear Regression with Advertising Data 
