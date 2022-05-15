@@ -10,9 +10,10 @@
 ![Basic-Non-Linear-Model](https://user-images.githubusercontent.com/52699611/168087475-9a8e1ad8-0e86-457d-86f1-6d7fa7abbb6b.jpg)
 
 
-Clustering is a Machine Learning technique that involves the grouping of data points. Given a set of data points, we can use a clustering algorithm to classify each data point into a specific group. In theory, data points that are in the same group should **have similar properties and/or features**, while data points in different groups should have highly dissimilar properties and/or features. Clustering is a **method of unsupervised learning** and is a common technique for statistical data analysis used in many fields.
+**Regression Analysis** is the study of dependence: how does a response variable change as the values of one or more predictor variables are changed? In statistical modeling, Regression Analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the *outcome* or *response* variable) and one or more independent variables (often called *predictors*, *covariates*, *explanatory variables* or *features*). The most common form of Regression Analysis is *Linear Regression*, in which one finds the *line* (or a more complex linear combination) that most closely fits the data according to a specific mathematical criterion. For example, the method of ordinary least squares computes the unique line (or hyperplane) that *minimizes the sum of squared differences* (*residuals*) between the true data and that line (or hyperplane).
 
-* see [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) for a discussion on clustering as a unsuervised machine learning technique and specific clustering algorithms in more details
+* see the [StatQuest Tutorial](https://youtu.be/nk2CQITm_eo) of Josh Starmer from xxxx on the **Linear Regression** technique. 
+* have a look also at the [R Code step-by-step](https://youtu.be/u1cc1r_Y7M0) explanation of Josh Starmer    
 </br>
 
 
